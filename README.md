@@ -1,3 +1,7 @@
+# But
+
+Prédire la qualité du vin en fonction de sa composition
+
 # Installation
 
 `python -m venv.venv`
