@@ -1,0 +1,6 @@
+fixed_acidity,volatile_acidity,citric_acid,residual_sugar,chlorides,free_sulfur_dioxide,total_sulfur_dioxide,density,pH,sulphates,alcohol,type
+5.1,0.42,0.02,0.8,0.044,14,27,0.9908,3.44,0.44,10.0,0  # Faible qualité
+6.8,0.6,0.08,3.8,0.045,20,70,0.9954,3.30,0.64,10.8,0  # Moyenne qualité
+7.9,0.28,0.36,8.7,0.038,37,180,0.9918,3.00,0.75,13.0,1  # Haute qualité
+6.0,0.31,0.23,4.2,0.048,29,114,0.992,3.39,0.56,11.3,1  # Haute qualité
+7.2,0.3,0.34,13.9,0.04,57,185,0.9935,3.21,0.67,12.8,1  # Haute qualité
