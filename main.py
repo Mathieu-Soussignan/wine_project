@@ -5,7 +5,7 @@ import pandas as pd
 if __name__ == "__main__":
     try:
         # Charger les données avec un séparateur correct
-        data = pd.read_csv("data/winequality-white.csv", sep=";", quotechar='"')
+        data = pd.read_csv("data//raw/winequality-white.csv", sep=";", quotechar='"')
 
         # Vérifier les colonnes après nettoyage
         print("Colonnes nettoyées :", data.columns.tolist())

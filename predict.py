@@ -30,7 +30,7 @@ def predict_new_data(model_path, data_path):
 if __name__ == "__main__":
     # Chemins des fichiers
     model_path = "lightgbm_grouped_model.pkl"
-    data_path = "data/cleaned_winequality-red.csv"
+    data_path = "data/cleaned/cleaned_winequality-red.csv"
 
     # Effectuer les prédictions
     predictions, true_labels = predict_new_data(model_path, data_path)
